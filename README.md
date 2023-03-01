@@ -47,7 +47,7 @@ Bonus: how much money could the client save with the use of the model?
 Task 4: Findings and recommendations
 The client wants a quick update on the progress of the project.
 
-For task 4, develop an abstract slide synthesising all the findings from the project so far.
+For task 4, develop an abstract slide synthesising all the findings from the project so far
 
 A few things to think about for this abstract include:
 
